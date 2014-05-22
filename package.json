@@ -1,0 +1,21 @@
+{
+	"name": "ot-winston-ampq",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"test": "grunt test"
+	},
+	"dependencies": {
+		"amqp": "^0.2.0",
+		"winston": "^0.7.3"
+	},
+	"devDependencies": {
+		"mocha": "*"
+	},
+	"maintainers": [
+		{
+			"name": "chornyi",
+			"url": "https://github.com/chornyi"
+		}
+	]
+}
