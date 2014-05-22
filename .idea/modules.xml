@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ot-winston-ampq.iml" filepath="$PROJECT_DIR$/.idea/ot-winston-ampq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ot-winston-amqp.iml" filepath="$PROJECT_DIR$/.idea/ot-winston-amqp.iml" />
     </modules>
   </component>
 </project>

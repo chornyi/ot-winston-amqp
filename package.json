@@ -1,5 +1,5 @@
 {
-	"name": "ot-winston-ampq",
+	"name": "ot-winston-amqp",
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
